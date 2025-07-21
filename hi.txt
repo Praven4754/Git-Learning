@@ -12,11 +12,3 @@ git add text.text
 git commit -m
 "fix:message"
 "feat:adding index.html"
-"refractor:message"
-"docs:message"
-"!fix:breaking message"
-"chore:message"
-
-
-bbbbb
-bbbbb 
