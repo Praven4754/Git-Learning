@@ -8,6 +8,7 @@ git clone https://github.com/Praven4754/Git-Learning.git
 
 git add text.text
 
+
 git commit -m
 "fix:message"
 "feat:adding index.html"
@@ -15,3 +16,7 @@ git commit -m
 "docs:message"
 "!fix:breaking message"
 "chore:message"
+
+
+bbbbb
+bbbbb 
