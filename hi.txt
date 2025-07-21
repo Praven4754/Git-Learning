@@ -1,1 +1,17 @@
 Hello Everyone 
+
+git config --global user.name "Praven4754"
+
+git config --global user.email "pravenkumardj4754@gmail.com"
+
+git clone https://github.com/Praven4754/Git-Learning.git
+
+git add text.text
+
+git commit -m
+"fix:message"
+"feat:adding index.html"
+"refractor:message"
+"docs:message"
+"!fix:breaking message"
+"chore:message"
